@@ -1,1 +1,1 @@
-emp_name = ["SAM","NIK","DEIS-1234"]
+emp_name = ["SAM","NIK","DEIS-1234","DEIS-7890"]
